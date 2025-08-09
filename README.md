@@ -3,7 +3,7 @@ I’m a dual student in Software Engineering and AI with a passion for combining
 My interests range from Java programming and data analysis to content creation and motorcycles.<br>
 <br>
 - 🎓 Dual student in Software Development and AI<br>
-- 💻 Experience in **Java** (including SWT & GridLayout/GridData)<br>
+- 💻 Experience in **Java**<br>
 - 🏍️ Motorcycle enthusiast (Yamaha R7)<br>
 - 🎥 Interested in video production, photography, and social media content<br>
 <br>
